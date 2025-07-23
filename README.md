@@ -52,7 +52,3 @@ Try using:
 - Half info from memory
 
 Let SHAKUNI twist it all into a deadly wordlist! 🔱
-
-
-
->>>>>>> f5de150 (Initial commit - SHAKUNI 🔱)
